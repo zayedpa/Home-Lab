@@ -1,15 +1,10 @@
 # Active Directory Home Lab with osTicket Help Desk
 
-![Lab Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-VirtualBox-blue)
-![AD](https://img.shields.io/badge/Active%20Directory-Windows%20Server%202022-blue)
-![osTicket](https://img.shields.io/badge/Help%20Desk-osTicket-orange)
 
 ## Overview
 
 A fully functional IT Support home lab built from scratch using VirtualBox. This lab simulates a real enterprise IT environment with Active Directory, Group Policy, DHCP, DNS, a domain-joined Windows 11 client, and a working osTicket help desk ticketing system.
 
-Built to demonstrate practical IT Support Engineer skills for the Dubai job market.
 
 ---
 
