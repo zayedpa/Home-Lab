@@ -12,9 +12,9 @@ A fully functional IT Support home lab built from scratch using VirtualBox. This
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                  Internal Network (intnet)           │
-│                   192.168.10.0/24                    │
-│                                                      │
+│                  Internal Network (intnet)          |
+│                   192.168.10.0/24                   |
+│                                                     |
 │  ┌──────────────┐  ┌──────────────┐  ┌───────────┐  │
 │  │    DC01      │  │  CLIENT01    │  │OSTICKET01 │  │
 │  │Windows Server│  │  Windows 11  │  │  Ubuntu   │  │
